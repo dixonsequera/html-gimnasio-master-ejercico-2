@@ -1,0 +1,56 @@
+* {
+    font-family: sans-serif;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: white(36, 182, 231);
+    padding: 10px;
+}
+
+nav.side {
+    text-align: left;
+    background-color: white;
+}
+
+.separator {
+    margin: 10px;
+}
+
+table {
+    font-family: sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: auto;
+    
+    
+
+}
+
+th,
+td {
+    width: 25%;
+    border: 1px solid black;
+}
+
+td {
+    background-color: rgb(241, 241, 241);
+}
+
+img {
+    width: 33%;
+}
+
+h2 {
+    margin-top: 70px;
+}
+
+.centered {
+    text-align: center;
+}
+
+video {
+    width: 40%;
+    text-align: center;
+}
